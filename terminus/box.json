@@ -1,0 +1,14 @@
+{
+  "alias": "terminus.phar",
+  "check-requirements": false,
+  "exclude-composer-files": false,
+  "directories": [
+    "assets",
+    "bin",
+    "config",
+    "src",
+    "templates",
+    "vendor"
+  ],
+  "output": "terminus.phar"
+}
