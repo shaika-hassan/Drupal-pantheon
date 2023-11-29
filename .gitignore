@@ -55,9 +55,9 @@
 # See the "installer-paths" section in the top-level composer.json
 # file.
 # ------------------------------------------------------------------
-/drush/Commands/contrib/
+!/drush/Commands/contrib/
 /web/core/
-/web/modules/contrib/
+!/web/modules/contrib/
 /web/themes/contrib/
 /web/profiles/contrib/
 /web/libraries/
